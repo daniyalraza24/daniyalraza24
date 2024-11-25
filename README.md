@@ -72,16 +72,17 @@ also trying to implement them practically.</p>
 
 
 ## 📊 GitHub Stats:
-<div align=" center">
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=daniyalraza24&theme=midnight-purple&hide_border=true&border_radius=4.9" alt="GitHub Streak" /></a>
+</p>
 
-<p>  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalraza24&"
-    alt="daniyalraza24" /></p>
-<p>
-<a  href="https://git.io/streak-stats">    
-    <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyalraza24&show_icons=true&locale=en&layout=compact"
-    alt="daniyalraza24" /></a></p>
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalraza24&theme=midnight-purple&hide_border=true&border_radius=4.9r=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyalraza24&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&border_radius=4.9" alt="MahamTahir31 " />
+</p>
 ## 📊 GitHub Trophies:
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -95,8 +96,8 @@ also trying to implement them practically.</p>
             src="https://komarev.com/ghpvc/?username=daniyalraza24&label=Profile%20views&color=0e75b6&style=flat"
             alt="daniyalraza24" /> </p>
     
-    </div>
-</div>
+    
+
 
 
 
@@ -114,4 +115,4 @@ also trying to implement them practically.</p>
             alt="ft.daniiyal" height="30" width="40" /></a>
 </p>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daniyalraza24&bg_color=20222e&color=4e96ff&line=0083ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
