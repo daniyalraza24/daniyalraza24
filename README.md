@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.gifer.com/JYOj.gif" alt="">
+    <img wdth="459px" src="https://i.gifer.com/JYOj.gif" alt="">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Daniyal Raza</h1>
@@ -72,17 +72,16 @@ also trying to implement them practically.</p>
 
 
 ## 📊 GitHub Stats:
+<div align=" center">
 
+<p>  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalraza24&"
+    alt="daniyalraza24" /></p>
 <p>
-<a href="https://git.io/streak-stats">    
-    <img align="center"
+<a  href="https://git.io/streak-stats">    
+    <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyalraza24&show_icons=true&locale=en&layout=compact"
     alt="daniyalraza24" /></a></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalraza24&"
-    alt="daniyalraza24" /></p>
-
-
+</div>
 ## 📊 GitHub Trophies:
 
 <div style="display: flex; justify-content: center; align-items: center;">
