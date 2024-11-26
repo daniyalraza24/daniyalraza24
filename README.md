@@ -1,13 +1,13 @@
 <p align="center">
-    <img wdth="459px" src="https://i.gifer.com/JYOj.gif" alt="">
+    <img wdth="1600" src="https://i.gifer.com/JYOj.gif" alt="">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Daniyal Raza</h1>
 <h3 align="center">Front-End Developer | WordPress Developer | Python Programmer | Firebase</h3>
 
 <p align="center">
-    <img src="https://eportfolio.utm.my/artefact/file/download.php?file=708102&view=177741&time=1715368670"
-        alt="Coding Gif">
+  <img src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" alt="Celebrate" width="600">
+">
 </p>
 
 <h1 align="center">Brief Introduction About Me</h1>
@@ -83,25 +83,24 @@ also trying to implement them practically.</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daniyalraza24&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&border_radius=4.9" alt="MahamTahir31 " />
 </p>
-## 📊 GitHub Trophies:
 
+## 📊 GitHub Trophies:
 <div style="display: flex; justify-content: center; align-items: center;">
-    <div>
-        <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=daniyalraza24" alt="daniyalraza24" /></a>
+    <div> 
+        <img src="https://github-profile-trophy.vercel.app/?username=daniyalraza24&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
     </div>
     <div>
-        <br>
-        <p align="left"> <img
-            src="https://komarev.com/ghpvc/?username=daniyalraza24&label=Profile%20views&color=0e75b6&style=flat"
-            alt="daniyalraza24" /> </p>
+      <br>
+        <p align="left">
+            <img src="https://komarev.com/ghpvc/?username=daniyalraza24&label=Profile%20views&color=0e75b6&style=flat" alt="daniyalraza24" />
+        </p>
+    </div>
+</div>    
     
-    
 
 
 
-
-<h3 align="left">Connect with me:</h3>
+## 📊 Connect with me:
 <p align="center">
     <a href="https://twitter.com/https://x.com/daniiyal_20?t=ju-746offt93g9bwfxkeia&s=09" target="blank"><img
             align="center"
